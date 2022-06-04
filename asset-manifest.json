@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tokgoz-Restaurant-Menu-Project/static/css/main.26e112f5.chunk.css",
+    "main.js": "/Tokgoz-Restaurant-Menu-Project/static/js/main.29ef34fd.chunk.js",
+    "main.js.map": "/Tokgoz-Restaurant-Menu-Project/static/js/main.29ef34fd.chunk.js.map",
+    "runtime-main.js": "/Tokgoz-Restaurant-Menu-Project/static/js/runtime-main.58c294af.js",
+    "runtime-main.js.map": "/Tokgoz-Restaurant-Menu-Project/static/js/runtime-main.58c294af.js.map",
+    "static/js/2.66b87b03.chunk.js": "/Tokgoz-Restaurant-Menu-Project/static/js/2.66b87b03.chunk.js",
+    "static/js/2.66b87b03.chunk.js.map": "/Tokgoz-Restaurant-Menu-Project/static/js/2.66b87b03.chunk.js.map",
+    "index.html": "/Tokgoz-Restaurant-Menu-Project/index.html",
+    "precache-manifest.16e45dfc4a570cf1f531a6397a48a4c8.js": "/Tokgoz-Restaurant-Menu-Project/precache-manifest.16e45dfc4a570cf1f531a6397a48a4c8.js",
+    "service-worker.js": "/Tokgoz-Restaurant-Menu-Project/service-worker.js",
+    "static/css/main.26e112f5.chunk.css.map": "/Tokgoz-Restaurant-Menu-Project/static/css/main.26e112f5.chunk.css.map",
+    "static/js/2.66b87b03.chunk.js.LICENSE.txt": "/Tokgoz-Restaurant-Menu-Project/static/js/2.66b87b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c294af.js",
+    "static/js/2.66b87b03.chunk.js",
+    "static/css/main.26e112f5.chunk.css",
+    "static/js/main.29ef34fd.chunk.js"
+  ]
+}
